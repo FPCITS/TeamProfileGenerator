@@ -26,13 +26,13 @@ This project is to demonstrate our ability in utilizing node.js to create an app
 - Inquirer<br>
 - fs<br>
 - Util <br><br>
- Step 4: Navigate to the directory containing your .js file. <br>
- Step 5: Run your file using the "node index.js" command.
+ Step 4: <br>
+ Step 5: 
 
       
 ## Usage
 
- [HERE]() is a helpful video to follow: 
+ []() is a helpful video to follow: 
 
   
   ![image](./Develop/images/Walkthrough.gif)
