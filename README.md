@@ -26,8 +26,8 @@ This project is to demonstrate our ability in utilizing node.js to create an app
 - Inquirer<br>
 - fs<br>
 - Util <br><br>
- Step 4: <br>
- Step 5: 
+ Step 4: Navigate to the downloaded repository via your terminal
+ Step 5: Run node index
 
       
 ## Usage
@@ -48,8 +48,12 @@ You can contribute to this project by:
 
  Step 1: Copy repository from GitHub onto your device <br>
  Step 2: Launch your terminal. <br>
- Step 3: Navigate to the directory containing your .js file. <br>
- Step 4: Run your file using the "node index.js" command.
+ Step 3: Run npm install for the following dependencies in your CLI or terminal:<br>
+- Inquirer<br>
+- fs<br>
+- Util <br><br>
+ Step 4: Navigate to the downloaded repository via your terminal
+ Step 5: Run node index
       
 ## Questions
       
