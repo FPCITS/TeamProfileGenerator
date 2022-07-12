@@ -26,7 +26,7 @@ This project is to demonstrate our ability in utilizing node.js to create an app
 - Inquirer<br>
 - fs<br>
 - Util <br><br>
- Step 4: Navigate to the downloaded repository via your terminal
+ Step 4: Navigate to the downloaded repository via your terminal<br>
  Step 5: Run node index
 
       
@@ -52,7 +52,7 @@ You can contribute to this project by:
 - Inquirer<br>
 - fs<br>
 - Util <br><br>
- Step 4: Navigate to the downloaded repository via your terminal
+ Step 4: Navigate to the downloaded repository via your terminal <br>
  Step 5: Run node index
       
 ## Questions
